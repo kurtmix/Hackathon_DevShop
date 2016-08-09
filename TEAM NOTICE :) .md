@@ -5,22 +5,12 @@
      `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
     ----------------------------------------------------------------- 
 
+I am adding a git repo now so we don't have to have any problems later
+Link : (https://github.com/kurtmix/Hackathon_DevShop)
 
-Hi there! Welcome to Cloud9 IDE!
-
-To get you started, we included a small hello world application.
-
-1) Open the hello-world.html file
-
-2) Click on the Preview button to open a live preview pane
-
-3) Make some changes to the file, save, watch the preview, and have fun!
-
-Happy coding!
-The Cloud9 IDE team
-
-
-## Support & Documentation
-
-Visit http://docs.c9.io for documentation, or http://support.c9.io for support.
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+Update: We are only doing 4 games? 
+1.Wack a mole (Aida)
+2.Ring Toss (Nia)
+3.Darts (Kurt)
+4.Water Shooter (Rosa)
+Comment any tips for codes if you can help as well as try and stay focused ;)
