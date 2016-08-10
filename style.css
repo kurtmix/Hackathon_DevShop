@@ -1,0 +1,47 @@
+#dart{
+    height:200px;
+    width:300px;
+}
+#ringtoss{
+    height:200px;
+    width: 300px;
+}
+
+#ringtoss-text{
+    position:absolute;
+    top:0px;
+    left:310px;
+}
+#ringtoss-button{
+position: absolute;
+top:262px;
+left: 310px;
+}
+#whack-a-mole{
+    height:200px;
+    width:300px;
+}
+#whack-button{
+position: absolute;
+top:262px;
+left: 610px;
+}
+#whack-text{
+    position:absolute;
+    top:0px;
+    left:610px;
+}
+#water-text{
+    position:absolute;
+    top:0px;
+    left:910px;
+}
+#water-shooter{
+    height:200px;
+    width:300px;
+}
+#water-button{
+position: absolute;
+top:262px;
+left: 910px;
+}
